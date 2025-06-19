@@ -32,6 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Ox source file
+*.ox linguist-detectable=true
+*.ox linguist-documentation=false
+*.ox linguist-language=Ox
+*.oxh linguist-detectable=true
+*.oxh linguist-documentation=false
+*.oxh linguist-language=Ox
+*.OXH linguist-detectable=true
+*.OXH linguist-documentation=false
+*.OXH linguist-language=Ox
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -183,7 +193,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 28th at 03:02 pm PST)
-# Line count (including blank lines and compiler line): 190
+# File version: 6 (2025, Wednesday, June 18th at 10:26 pm PST)
+# Line count (including blank lines and compiler line): 200
 
 # End of script
